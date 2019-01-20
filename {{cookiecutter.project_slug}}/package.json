@@ -1,0 +1,12 @@
+{
+  "name": "{{ cookiecutter.project_slug }}",
+  "version": "0.0.1",
+  "description": "",
+  "author": "{{ cookiecutter.full_name }}",
+  "email": "{{ cookiecutter.email }}",
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.4"
+  }
+}

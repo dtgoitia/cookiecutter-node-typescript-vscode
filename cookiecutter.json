@@ -1,0 +1,9 @@
+{
+  "full_name": "David Torralba Goitia",
+  "email": "david.torralba.goitia@gmail.com",
+  "project_name": "Super project",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-').replace('-', '') }}",
+  "github_username": "dtgoitia",
+  "version": "0.1.0",
+  "open_source_license": "MIT license"
+}
